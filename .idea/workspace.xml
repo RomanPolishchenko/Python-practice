@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Inheritance/14.9 (sorting)/task14_9.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/14.5/task14.5.txt" afterPath="$PROJECT_DIR$/Inheritance/14.5/task14_5.txt" />
-      <change beforePath="$PROJECT_DIR$/Inheritance/14.6(Лiчилка)/task14.6.txt" afterPath="$PROJECT_DIR$/Inheritance/14.6(Лiчилка)/task14_6.txt" />
+      <change beforePath="$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py" afterPath="$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py" />
     </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,6 +28,7 @@
     <SUITE FILE_PATH="coverage/2Semestr$find_modules.coverage" NAME="find_modules Coverage Results" MODIFIED="1522593778689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackaton1" />
     <SUITE FILE_PATH="coverage/2Semestr$main10_2.coverage" NAME="main10_2 Coverage Results" MODIFIED="1523024192006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/10_2" />
     <SUITE FILE_PATH="coverage/2Semestr$integrals_main.coverage" NAME="integrals_main Coverage Results" MODIFIED="1522666284291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/integrals" />
+    <SUITE FILE_PATH="coverage/2Semestr$main14_9.coverage" NAME="main14_9 Coverage Results" MODIFIED="1524069102091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
     <SUITE FILE_PATH="coverage/2Semestr$main.coverage" NAME="main Coverage Results" MODIFIED="1522079802897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/turtle" />
     <SUITE FILE_PATH="coverage/2Semestr$main_labir.coverage" NAME="main_labir Coverage Results" MODIFIED="1523815696305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/Labirint" />
   </component>
@@ -56,8 +54,8 @@
       <file leaf-file-name="main14_9.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="200">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -255,7 +253,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main14_6">
+  <component name="RunManager" selected="Python.main14_9">
     <configuration name="Sparse_matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,25 +268,6 @@
       <module name="2Semestr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/14.5/Sparse_matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="main10_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Queue/10_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2Semestr" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Queue/10_2/main10_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,6 +311,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="main14_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2Semestr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="main_labir" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -352,19 +350,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main10_2" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main10_4" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main_labir" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Sparse_matrix" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main14_6" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main10_4" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main_labir" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Sparse_matrix" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main14_6" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main14_9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main14_6" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Sparse_matrix" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main_labir" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main10_4" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main10_2" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main14_9" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main14_6" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Sparse_matrix" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main_labir" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main10_4" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +387,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524067843955</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Created files for 14.9 task.">
+      <created>1524068600112</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1524068600112</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -478,7 +483,8 @@
       <path value="$PROJECT_DIR$/Queue/Labirint" />
     </ignored-roots>
     <MESSAGE value="Added 14.5 task.&#10;Added solving for 14.6 (Лiчилка)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added 14.5 task.&#10;Added solving for 14.6 (Лiчилка)." />
+    <MESSAGE value="Created files for 14.9 task." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created files for 14.9 task." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -849,8 +855,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding />
         </state>
       </provider>
