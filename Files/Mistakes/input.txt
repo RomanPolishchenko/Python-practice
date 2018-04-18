@@ -1,0 +1,8 @@
+a=3
+ a==m
+f = open(filename, 'r')
+_text = f.readlines()
+for _i in range(len(_text)):
+        _text[_i] = _text[_i].rstrip()
+   f.close()
+    return _text

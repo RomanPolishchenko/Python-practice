@@ -1,0 +1,52 @@
+At the moment 1 nothing happened
+At the moment 2 1-th customer was served.
+At the moment 3 nothing happened
+At the moment 4 nothing happened
+At the moment 5 2-th customer was served.
+At the moment 6 nothing happened
+At the moment 7 3-th customer was served.
+At the moment 8 nothing happened
+At the moment 9 4-th customer was served.
+At the moment 10 11-th customer was added.
+At the moment 11 nothing happened
+At the moment 12 12-th customer was added.
+At the moment 13 5-th customer was served.
+At the moment 14 nothing happened
+At the moment 15 nothing happened
+At the moment 16 nothing happened
+At the moment 17 6-th customer was served.
+At the moment 18 nothing happened
+At the moment 19 nothing happened
+At the moment 20 13-th customer was added.
+At the moment 20 7-th customer was served.
+At the moment 21 nothing happened
+At the moment 22 nothing happened
+At the moment 23 nothing happened
+At the moment 24 8-th customer was served.
+At the moment 25 nothing happened
+At the moment 26 14-th customer was added.
+At the moment 27 nothing happened
+At the moment 28 9-th customer was served.
+At the moment 29 nothing happened
+At the moment 30 10-th customer was served.
+At the moment 31 nothing happened
+At the moment 32 15-th customer was added.
+At the moment 33 11-th customer was served.
+At the moment 34 nothing happened
+At the moment 35 16-th customer was added.
+At the moment 36 nothing happened
+At the moment 37 17-th customer was added.
+At the moment 37 12-th customer was served.
+At the moment 38 nothing happened
+At the moment 39 nothing happened
+At the moment 40 13-th customer was served.
+At the moment 41 nothing happened
+At the moment 42 18-th customer was added.
+At the moment 43 nothing happened
+At the moment 44 14-th customer was served.
+At the moment 45 nothing happened
+At the moment 46 nothing happened
+At the moment 47 15-th customer was served.
+At the moment 48 nothing happened
+At the moment 49 nothing happened
+At the moment 50 19-th customer was added.
