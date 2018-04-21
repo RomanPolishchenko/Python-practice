@@ -28,7 +28,10 @@ class Race:
         # got time with current date
         self._staying_time = (self.departure_time - self.arrival_time).days * 86400 +\
                              (self.departure_time - self.arrival_time).seconds  # staying time in seconds
-        self.delay = Race.set_delay()  # False or datetime instance
+        self.delay = Race.set_delay()  # timedelta instance with delay
+        if self.delay.seconds > 0:  # correcting the schedule
+            self.arrival_time = self.arrival_time + self.delay
+            self.departure_time = self.departure_time + self.delay
 
     def get_status(self):
         _diff_time = datetime.datetime.today() - self.arrival_time  # difference in time
@@ -52,21 +55,15 @@ class Race:
         """
         Delay is determined randomly. 1/10 that it happens.
         """
-        _today = datetime.datetime.today()
-        _delay = False  # no delay by default
+        _delay = datetime.timedelta(0, 0)  # no delay by default
         _choice = [0, 0, 0, 0, 0, 0, 0, 0, 0, 1]  # 1/10 chance
         if random.choice(_choice):
-            _dm = random.randint(0, 1)
-            _ds = random.randint(0, 59)
-            _delay = datetime.datetime(_today.year,
-                                       _today.month,
-                                       _today.day,
-                                       0,
-                                       _dm,
-                                       _ds)
+            _ds = random.randint(1, 120)  # delay is up to 2 minutes
+            _delay = datetime.timedelta(0, _ds)
         return _delay
 
 
 if __name__ == '__main__':
-    r1 = Race('PA21 Rym-Kyiv 15:31:04 15:32:34')
-    print(r1.get_status())
+    r1 = Race('PA21 Rym-Kyiv 17:11:04 17:12:34')
+    print(r1)
+    print(r1.delay)

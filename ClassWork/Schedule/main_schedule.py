@@ -31,9 +31,9 @@ def print_table(_flights):
     Prints the table by the _flights schedule.
     """
     print(curr_time())
-    table = PrettyTable(['Code', 'Route', 'Arrival', 'Departure', 'Status'])
+    table = PrettyTable(['Code', 'Route', 'Arrival', 'Departure', 'Status', 'Delay'])
     for fl in _flights.values():
-        table.add_row([fl.code, fl.route, fl.arr_time, fl.dep_time, fl.get_status()])
+        table.add_row([fl.code, fl.route, fl.arr_time, fl.dep_time, fl.get_status(), fl.delay])
     print(table)
 
 

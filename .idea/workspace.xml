@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="Initial commit." />
+    <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" afterPath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
+      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" afterPath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
+    </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +32,7 @@
     <SUITE FILE_PATH="coverage/2Semestr$main10_2.coverage" NAME="main10_2 Coverage Results" MODIFIED="1523024192006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/10_2" />
     <SUITE FILE_PATH="coverage/2Semestr$integrals_main.coverage" NAME="integrals_main Coverage Results" MODIFIED="1522666284291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/integrals" />
     <SUITE FILE_PATH="coverage/2Semestr$main14_9.coverage" NAME="main14_9 Coverage Results" MODIFIED="1524079149194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
-    <SUITE FILE_PATH="coverage/2Semestr$Classes_schedule.coverage" NAME="Classes_schedule Coverage Results" MODIFIED="1524227578055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassWork/Schedule" />
+    <SUITE FILE_PATH="coverage/2Semestr$Classes_schedule.coverage" NAME="Classes_schedule Coverage Results" MODIFIED="1524319836795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassWork/Schedule" />
     <SUITE FILE_PATH="coverage/2Semestr$main.coverage" NAME="main Coverage Results" MODIFIED="1522079802897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/turtle" />
     <SUITE FILE_PATH="coverage/2Semestr$main_labir.coverage" NAME="main_labir Coverage Results" MODIFIED="1523815696305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/Labirint" />
   </component>
@@ -51,16 +55,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main_schedule.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main_schedule.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="202">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
               <folding>
                 <element signature="e#194#229#0" expanded="true" />
                 <element signature="e#592#725#0" expanded="false" />
-                <element signature="e#759#1053#0" expanded="false" />
-                <element signature="e#1088#1306#0" expanded="false" />
+                <element signature="e#1107#1325#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -76,11 +79,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Classes_schedule.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Classes_schedule.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+            <state relative-caret-position="357">
+              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="datetime.pyi" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="145" column="10" lean-forward="true" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -89,8 +104,8 @@
       <file leaf-file-name="datetime.py" pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/datetime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1502">
-              <caret line="808" column="8" lean-forward="false" selection-start-line="808" selection-start-column="8" selection-end-line="808" selection-end-column="8" />
+            <state relative-caret-position="20319">
+              <caret line="1359" column="6" lean-forward="false" selection-start-line="1359" selection-start-column="6" selection-end-line="1359" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -189,9 +204,9 @@
         <option value="$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py" />
         <option value="$PROJECT_DIR$/Inheritance/14.9 (sorting)/test.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/main.py" />
-        <option value="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/schedule.txt" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
+        <option value="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
       </list>
     </option>
   </component>
@@ -305,7 +320,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main_schedule">
+  <component name="RunManager" selected="Python.Classes_schedule">
     <configuration name="Classes_schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -410,8 +425,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main_schedule" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Classes_schedule" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Classes_schedule" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main_schedule" />
         <item index="2" class="java.lang.String" itemvalue="Python.test" />
         <item index="3" class="java.lang.String" itemvalue="Python.main14_9" />
         <item index="4" class="java.lang.String" itemvalue="Python.main14_6" />
@@ -460,7 +475,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524316156865</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added randomly organized delay for each &lt;Race&gt; instance.">
+      <created>1524318931418</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1524318931418</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -474,14 +496,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38210398" sideWeight="0.50858366" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.49427754" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23216444" sideWeight="0.4914163" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28295043" sideWeight="0.4914163" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27932286" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28295043" sideWeight="0.4914163" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27932286" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21530758" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -552,7 +575,8 @@
     <MESSAGE value="Created files for 14.9 task." />
     <MESSAGE value="Solved 14.9 task." />
     <MESSAGE value="Initial commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
+    <MESSAGE value="Added randomly organized delay for each &lt;Race&gt; instance." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added randomly organized delay for each &lt;Race&gt; instance." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -696,13 +720,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10226">
-          <caret line="218" column="0" lean-forward="true" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -893,34 +910,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="186" column="8" lean-forward="false" selection-start-line="186" selection-start-column="8" selection-end-line="186" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/schedule.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/datetime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1502">
-          <caret line="808" column="8" lean-forward="false" selection-start-line="808" selection-start-column="8" selection-end-line="808" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
           <folding />
         </state>
       </provider>
@@ -933,15 +926,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-929">
+          <caret line="218" column="0" lean-forward="true" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/datetime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20319">
+          <caret line="1359" column="6" lean-forward="false" selection-start-line="1359" selection-start-column="6" selection-end-line="1359" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="145" column="10" lean-forward="true" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="202">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding>
             <element signature="e#194#229#0" expanded="true" />
             <element signature="e#592#725#0" expanded="false" />
-            <element signature="e#759#1053#0" expanded="false" />
-            <element signature="e#1088#1306#0" expanded="false" />
+            <element signature="e#1107#1325#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
