@@ -1,0 +1,4 @@
+PA21 Rym-Kyiv 9:25:04 9:26:00
+AS24 Barcelona-Kyiv 13:20:46 13:26:23
+BJ84 Kyiv-Moscow 13:21:15 13:26:30
+AC91 Kyiv-Odessa 13:51:45 13:52:00
