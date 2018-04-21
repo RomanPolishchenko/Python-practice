@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ClassWork/Schedule/prettytable.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ClassWork/Schedule/schedule.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/2Semestr.iml" afterPath="$PROJECT_DIR$/.idea/2Semestr.iml" />
+    <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="Initial commit.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
@@ -139,6 +134,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -455,7 +455,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524069144351</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial commit.">
+      <created>1524316156864</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1524316156865</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -547,7 +554,8 @@
     <MESSAGE value="Added 14.5 task.&#10;Added solving for 14.6 (Лiчилка)." />
     <MESSAGE value="Created files for 14.9 task." />
     <MESSAGE value="Solved 14.9 task." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved 14.9 task." />
+    <MESSAGE value="Initial commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
