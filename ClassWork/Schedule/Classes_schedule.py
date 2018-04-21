@@ -9,7 +9,6 @@ class Race:
         self._info = string.split()
         self.code = self._info[0]
         self.route = self._info[1]
-        self.arr_time = self._info[2]
         self._arrival_time = list(map(int, self._info[2].split(':')))
         self.arrival_time = datetime.datetime(_today.year,
                                               _today.month,
@@ -17,7 +16,6 @@ class Race:
                                               self._arrival_time[0],
                                               self._arrival_time[1],
                                               self._arrival_time[2])
-        self.dep_time = self._info[3]
         self._departure_time = list(map(int, self._info[3].split(':')))
         self.departure_time = datetime.datetime(_today.year,
                                                 _today.month,
@@ -28,10 +26,14 @@ class Race:
         # got time with current date
         self._staying_time = (self.departure_time - self.arrival_time).days * 86400 +\
                              (self.departure_time - self.arrival_time).seconds  # staying time in seconds
+
         self.delay = Race.set_delay()  # timedelta instance with delay
         if self.delay.seconds > 0:  # correcting the schedule
             self.arrival_time = self.arrival_time + self.delay
             self.departure_time = self.departure_time + self.delay
+
+        self.dep_time = self.departure_time.strftime('%H:%M:%S')
+        self.arr_time = self.arrival_time.strftime('%H:%M:%S')
 
     def get_status(self):
         _diff_time = datetime.datetime.today() - self.arrival_time  # difference in time

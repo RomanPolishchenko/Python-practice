@@ -33,7 +33,12 @@ def print_table(_flights):
     print(curr_time())
     table = PrettyTable(['Code', 'Route', 'Arrival', 'Departure', 'Status', 'Delay'])
     for fl in _flights.values():
-        table.add_row([fl.code, fl.route, fl.arr_time, fl.dep_time, fl.get_status(), fl.delay])
+        table.add_row([fl.code,
+                       fl.route,
+                       fl.arr_time,
+                       fl.dep_time,
+                       fl.get_status(),
+                       fl.delay])
     print(table)
 
 
@@ -52,12 +57,12 @@ def update_table(_flights):
 if __name__ == "__main__":
 
     flights = read_schedule('schedule.txt')
-
+    updating_rate = 30  # amount of seconds before refresh the table
     while flights:
         update_table(flights)
         if flights:
             print_table(flights)
-            time.sleep(30)
+            time.sleep(updating_rate)
 
     print(curr_time())
     print('All flights are gone!')
