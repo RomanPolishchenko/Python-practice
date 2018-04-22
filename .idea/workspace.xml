@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ex/Tkinter/2.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Ex/Tkinter/graphics_sin.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" afterPath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
-      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" afterPath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
     </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,12 +18,15 @@
     <SUITE FILE_PATH="coverage/2Semestr$main10_6.coverage" NAME="main10_6 Coverage Results" MODIFIED="1522666496211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/10_6" />
     <SUITE FILE_PATH="coverage/2Semestr$lucky_tick.coverage" NAME="lucky_tick Coverage Results" MODIFIED="1522924999199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex" />
     <SUITE FILE_PATH="coverage/2Semestr$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1522170951489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+    <SUITE FILE_PATH="coverage/2Semestr$2.coverage" NAME="2 Coverage Results" MODIFIED="1524385332357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex/Tkinter" />
     <SUITE FILE_PATH="coverage/2Semestr$test.coverage" NAME="test Coverage Results" MODIFIED="1524148632161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
     <SUITE FILE_PATH="coverage/2Semestr$Integral.coverage" NAME="Integral Coverage Results" MODIFIED="1522515001510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/integrals" />
     <SUITE FILE_PATH="coverage/2Semestr$main14_6.coverage" NAME="main14_6 Coverage Results" MODIFIED="1524067690987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.6" />
-    <SUITE FILE_PATH="coverage/2Semestr$main_schedule.coverage" NAME="main_schedule Coverage Results" MODIFIED="1524308937234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassWork/Schedule" />
+    <SUITE FILE_PATH="coverage/2Semestr$main_schedule.coverage" NAME="main_schedule Coverage Results" MODIFIED="1524320602327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassWork/Schedule" />
     <SUITE FILE_PATH="coverage/2Semestr$Sparse_matrix.coverage" NAME="Sparse_matrix Coverage Results" MODIFIED="1524060077316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.5" />
     <SUITE FILE_PATH="coverage/2Semestr$main__3_.coverage" NAME="main (3) Coverage Results" MODIFIED="1522079121284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/integrals" />
+    <SUITE FILE_PATH="coverage/2Semestr$1.coverage" NAME="1 Coverage Results" MODIFIED="1524389085078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex/Tkinter" />
+    <SUITE FILE_PATH="coverage/2Semestr$simple_window.coverage" NAME="simple_window Coverage Results" MODIFIED="1524337713400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex/PyQt/Simple window" />
     <SUITE FILE_PATH="coverage/2Semestr$main_find.coverage" NAME="main_find Coverage Results" MODIFIED="1522662036806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Hackaton1" />
     <SUITE FILE_PATH="coverage/2Semestr$random.coverage" NAME="random Coverage Results" MODIFIED="1523023938247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
     <SUITE FILE_PATH="coverage/2Semestr$main_queue.coverage" NAME="main_queue Coverage Results" MODIFIED="1522664015272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Classes/Queue" />
@@ -55,67 +58,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main_schedule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
+      <file leaf-file-name="graphics_sin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ex/Tkinter/graphics_sin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="202">
-              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+            <state relative-caret-position="1420">
+              <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding>
-                <element signature="e#194#229#0" expanded="true" />
-                <element signature="e#592#725#0" expanded="false" />
-                <element signature="e#1107#1325#0" expanded="false" />
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="prettytable.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/prettytable.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16990">
-              <caret line="1456" column="11" lean-forward="false" selection-start-line="1456" selection-start-column="11" selection-end-line="1456" selection-end-column="11" />
+            <state relative-caret-position="189">
+              <caret line="2658" column="8" lean-forward="false" selection-start-line="2658" selection-start-column="8" selection-end-line="2658" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Classes_schedule.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
+      <file leaf-file-name="2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ex/Tkinter/2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datetime.pyi" pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="145" column="10" lean-forward="true" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="datetime.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/datetime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20319">
-              <caret line="1359" column="6" lean-forward="false" selection-start-line="1359" selection-start-column="6" selection-end-line="1359" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schedule.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/schedule.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+            <state relative-caret-position="360">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -156,9 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Classes/13.5/Driver.py" />
-        <option value="$PROJECT_DIR$/Ex/ex_pyqt.py" />
-        <option value="$PROJECT_DIR$/Ex/input7_153.txt" />
         <option value="$PROJECT_DIR$/Ex/7_153.py" />
         <option value="$PROJECT_DIR$/Ex/PyQt/PyQt_datetime.py" />
         <option value="$PROJECT_DIR$/Ex/PyQt/simple_window.py" />
@@ -205,8 +171,11 @@
         <option value="$PROJECT_DIR$/Inheritance/14.9 (sorting)/test.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/main.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/schedule.txt" />
-        <option value="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
+        <option value="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
+        <option value="$PROJECT_DIR$/Ex/Tkinter/1.py" />
+        <option value="$PROJECT_DIR$/Ex/Tkinter/2.py" />
+        <option value="$PROJECT_DIR$/Ex/Tkinter/graphics_sin.py" />
       </list>
     </option>
   </component>
@@ -271,8 +240,13 @@
             <path>
               <item name="2Semestr" type="b2602c69:ProjectViewProjectNode" />
               <item name="2Semestr" type="462c0819:PsiDirectoryNode" />
-              <item name="ClassWork" type="462c0819:PsiDirectoryNode" />
-              <item name="Schedule" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2Semestr" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2Semestr" type="462c0819:PsiDirectoryNode" />
+              <item name="Ex" type="462c0819:PsiDirectoryNode" />
+              <item name="Tkinter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,7 +294,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Classes_schedule">
+  <component name="RunManager" selected="Python.1">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex/Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2Semestr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex/Tkinter/graphics_sin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex/Tkinter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2Semestr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex/Tkinter/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Classes_schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -335,44 +347,6 @@
       <module name="2Semestr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="main14_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance/14.6" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2Semestr" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/14.6/main14_6.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="main14_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2Semestr" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/14.9 (sorting)/main14_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,39 +371,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="simple_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex/PyQt/Simple window" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2Semestr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Inheritance/14.9 (sorting)/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex/PyQt/Simple window/simple_window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main14_6" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main14_9" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main_schedule" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Classes_schedule" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main_schedule" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Classes_schedule" />
+      <item index="2" class="java.lang.String" itemvalue="Python.simple_window" />
+      <item index="3" class="java.lang.String" itemvalue="Python.1" />
+      <item index="4" class="java.lang.String" itemvalue="Python.2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Classes_schedule" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main_schedule" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main14_9" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main14_6" />
+        <item index="0" class="java.lang.String" itemvalue="Python.1" />
+        <item index="1" class="java.lang.String" itemvalue="Python.2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.simple_window" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main_schedule" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Classes_schedule" />
       </list>
     </recent_temporary>
   </component>
@@ -482,7 +456,21 @@
       <option name="project" value="LOCAL" />
       <updated>1524318931418</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Changed and fixed delay-making system.">
+      <created>1524320156939</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1524320156939</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Changed and fixed delay outputting in the table.">
+      <created>1524320735621</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1524320735621</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView">
@@ -496,7 +484,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32889965" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -505,7 +492,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23216444" sideWeight="0.4914163" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28295043" sideWeight="0.4914163" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27932286" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21530758" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21530758" sideWeight="0.49576783" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -576,47 +563,20 @@
     <MESSAGE value="Solved 14.9 task." />
     <MESSAGE value="Initial commit." />
     <MESSAGE value="Added randomly organized delay for each &lt;Race&gt; instance." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added randomly organized delay for each &lt;Race&gt; instance." />
+    <MESSAGE value="Changed and fixed delay-making system." />
+    <MESSAGE value="Changed and fixed delay outputting in the table." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed and fixed delay outputting in the table." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="286" />
+      <option name="time" value="287" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Files/Mistakes/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="74" column="33" lean-forward="false" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Files/Mistakes/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="5" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes/T13.6(withfiles)/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="50" lean-forward="false" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Classes/kivy_pong/main.py" />
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/builtins.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="578" column="6" lean-forward="false" selection-start-line="578" selection-start-column="6" selection-end-line="578" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/turtle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -910,26 +870,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/schedule.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="31" lean-forward="false" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/prettytable.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16990">
-          <caret line="1456" column="11" lean-forward="false" selection-start-line="1456" selection-start-column="11" selection-end-line="1456" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-929">
           <caret line="218" column="0" lean-forward="true" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="145" column="10" lean-forward="false" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
           <folding />
         </state>
       </provider>
@@ -942,32 +894,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/datetime.pyi">
+    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/schedule.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="145" column="10" lean-forward="true" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
+        <state relative-caret-position="80">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1872#2387#0" expanded="false" />
+            <element signature="e#2421#2437#0" expanded="false" />
+            <element signature="e#2486#2864#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/prettytable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16990">
+          <caret line="1456" column="11" lean-forward="false" selection-start-line="1456" selection-start-column="11" selection-end-line="1456" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
-            <element signature="e#194#229#0" expanded="true" />
+            <element signature="e#377#568#0" expanded="false" />
             <element signature="e#592#725#0" expanded="false" />
-            <element signature="e#1107#1325#0" expanded="false" />
+            <element signature="e#759#1187#0" expanded="false" />
+            <element signature="e#1222#1440#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
+    <entry file="file://$PROJECT_DIR$/Ex/PyQt/PyQt_datetime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="34" column="0" lean-forward="true" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex/PyQt/Simple window/simple_window.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex/Tkinter/2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="2658" column="8" lean-forward="false" selection-start-line="2658" selection-start-column="8" selection-end-line="2658" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ex/Tkinter/graphics_sin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1420">
+          <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
