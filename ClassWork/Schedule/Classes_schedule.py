@@ -40,9 +40,9 @@ class Race:
         _diff_time = _diff_time.days * 86400 + _diff_time.seconds  # difference in seconds
         if _diff_time < 0:
             _status = 'Waiting for arrival'
-        elif 0 < _diff_time < self._staying_time:
+        elif 0 <= _diff_time <= self._staying_time:
             _status = "Arrived"
-        elif self._staying_time < _diff_time < self._staying_time + 180:  # wait 3 minutes
+        elif self._staying_time < _diff_time <= self._staying_time + 180:  # wait 3 minutes
             _status = 'Departed'
         else:
             _status = "Gone"
