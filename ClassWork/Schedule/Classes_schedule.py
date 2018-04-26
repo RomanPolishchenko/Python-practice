@@ -2,8 +2,20 @@ import datetime
 import random
 
 
-class Race:
+class IncorrectInput(Exception):
+    def __init__(self, arg):
+        self._arg = arg
+
+    def __str__(self):
+        return 'Incorrect input: {}'.format(self._arg)
+
+
+class Route:
+    """
+    implementation of
+    """
     def __init__(self, string):  # got string of info on the input
+        self.check_input(string)
         _today = datetime.datetime.today()
         self.info = string
         self._info = string.split()
@@ -27,13 +39,42 @@ class Race:
         self._staying_time = (self.departure_time - self.arrival_time).days * 86400 +\
                              (self.departure_time - self.arrival_time).seconds  # staying time in seconds
 
-        self.delay = Race.set_delay()  # timedelta instance with delay
+        self.delay = self.set_delay()  # timedelta instance with delay
         if self.delay.seconds > 0:  # correcting the schedule
             self.arrival_time = self.arrival_time + self.delay
             self.departure_time = self.departure_time + self.delay
 
         self.dep_time = self.departure_time.strftime('%H:%M:%S')
         self.arr_time = self.arrival_time.strftime('%H:%M:%S')
+
+    @staticmethod
+    def check_input(_input):
+        """
+        Checks the correctness of input data.
+        :param _input: data represented by <str>
+        :return: None
+        """
+        _input = _input.split()
+        try:
+            assert len(_input) == 4
+            _code = _input[0]
+            assert len(_code) == 4  # checking the code length
+            assert _code.isupper()  # checking the code format
+            _route = _input[1].split('–')
+            assert len(_route) == 2  # checking the correctness of route
+            _time_arr = _input[2].split(':')
+            _time_dep = _input[3].split(':')
+            assert len(_time_arr) == 3 and len(_time_dep) == 3  # checking if there are 3 components of time
+            for i in range(3):
+                assert float(_time_dep[i]) - int(_time_dep[i]) == 0  # checking if time repr. by <int>
+                assert float(_time_arr[i]) - int(_time_arr[i]) == 0  # checking if time repr. by <int>
+                _time_arr[i] = int(_time_arr[i])  # converting to <int>
+                _time_dep[i] = int(_time_dep[i])  # converting to <int>
+            _time_dep = _time_dep[0]*3600 + _time_dep[1]*60 + _time_dep[2]  # converting to seconds
+            _time_arr = _time_arr[0]*3600 + _time_arr[1]*60 + _time_arr[2]  # converting to seconds
+            assert _time_dep > _time_arr  # checking if departure after arrival
+        except AssertionError:
+            raise IncorrectInput(_input)
 
     def get_status(self):
         _diff_time = datetime.datetime.today() - self.arrival_time  # difference in time
@@ -66,6 +107,6 @@ class Race:
 
 
 if __name__ == '__main__':
-    r1 = Race('PA21 Rym-Kyiv 17:11:04 17:12:34')
+    r1 = Route('PA21 Rym–Kyiv 17:11:04 17:12:34')
     print(r1)
     print(r1.delay)
