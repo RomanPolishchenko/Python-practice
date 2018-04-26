@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" afterPath="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
-      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/schedule.txt" afterPath="$PROJECT_DIR$/ClassWork/Schedule/schedule.txt" />
+      <change beforePath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" afterPath="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
     </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,7 +59,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Classes_schedule.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Classes_schedule.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -70,22 +69,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main_schedule.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main_schedule.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schedule.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/schedule.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="360">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <element signature="e#194#229#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -172,11 +163,11 @@
         <option value="$PROJECT_DIR$/Ex/Tkinter/2.py" />
         <option value="$PROJECT_DIR$/Ex/Tkinter/graphics_sin.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/visualize.py" />
-        <option value="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_2/ex_class.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_2/mainT15_2.py" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/schedule.txt" />
         <option value="$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py" />
+        <option value="$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py" />
       </list>
     </option>
   </component>
@@ -506,7 +497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524665783010</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Added incorrect input processing.">
+      <created>1524756140119</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1524756140119</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView">
@@ -606,7 +604,8 @@
     <MESSAGE value="Fixed bug, with deleting route, when difference in time equal to 0." />
     <MESSAGE value="Solved T15.2" />
     <MESSAGE value="Updated T15.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated T15.2" />
+    <MESSAGE value="Added incorrect input processing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added incorrect input processing." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -948,10 +947,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
+    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="64" column="18" lean-forward="true" selection-start-line="64" selection-start-column="18" selection-end-line="64" selection-end-column="18" />
+        <state relative-caret-position="200">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -964,11 +963,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/Classes_schedule.py">
+    <entry file="file://$PROJECT_DIR$/ClassWork/Schedule/main_schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="360">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#194#229#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

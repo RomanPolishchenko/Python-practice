@@ -4,7 +4,7 @@ Table updates every 3 minutes. Program finishes when all the flights is gone.
 """
 from prettytable import PrettyTable
 from collections import OrderedDict
-from Classes_schedule import Race
+from Classes_schedule import Route
 from datetime import datetime
 import time
 
@@ -13,7 +13,7 @@ def read_schedule(filename):
     f = open(filename, 'r', encoding='utf-8')
     _flights = OrderedDict()
     for info in f.readlines():
-        _flight = Race(info)
+        _flight = Route(info)
         _flights[_flight.code] = _flight
     return _flights
 
