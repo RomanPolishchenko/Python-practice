@@ -1,0 +1,3 @@
+Roma, 2000, 213, CompMat, Jun, 100
+Dava, 2000, 432, CompMat, Jun, 100
+Rusl, 1999, 2321, Osvita, Mat, 150
