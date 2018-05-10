@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exceptions/T15_9/main15_9.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" />
-      <change beforePath="$PROJECT_DIR$/.idea/2Semestr.iml" afterPath="$PROJECT_DIR$/.idea/2Semestr.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" afterPath="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" />
     </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,7 +68,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main15_9.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main15_9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/main15_9.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
@@ -81,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/multiarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+            <state relative-caret-position="440">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -96,8 +93,8 @@
       <file leaf-file-name="ex15_9.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -188,8 +185,8 @@
         <option value="$PROJECT_DIR$/Exceptions/T15_1/ex15_1.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_1/main15_1.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py" />
-        <option value="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_9/main15_9.py" />
+        <option value="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" />
       </list>
     </option>
   </component>
@@ -542,7 +539,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525959972577</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Exceptions home work T15.9.">
+      <created>1525975979865</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1525975979865</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -647,7 +651,8 @@
     <MESSAGE value="Added module test task." />
     <MESSAGE value="Iterators." />
     <MESSAGE value="Iterators and exceptions home work." />
-    <option name="LAST_COMMIT_MESSAGE" value="Iterators and exceptions home work." />
+    <MESSAGE value="Exceptions home work T15.9." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exceptions home work T15.9." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -716,20 +721,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Queue_tasks/Labirint/main_labir.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="147" column="0" lean-forward="true" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queue_tasks/Labirint/maze.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7893">
@@ -1045,29 +1036,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/main15_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/weakref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-248">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/copy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="51" column="10" lean-forward="true" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/multiarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="83" column="0" lean-forward="false" selection-start-line="83" selection-start-column="0" selection-end-line="83" selection-end-column="0" />
+        <state relative-caret-position="440">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/main15_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -3,6 +3,23 @@ import copy
 
 
 class MultiArray:
+    """
+    Class MultiArray implements the data structure of mathematical 'multi arrays'.
+
+    Methods:
+    add_item(item) -> None. Adds new item or increases the count of existing one.
+    get_item(item) -> int. Returns the count of item or raises an error if it's not in array.
+    set_item(item, count) -> None. Adds {key=item:value=count}, that means 'item is found count times'
+    del_item(item) -> None. Deletes item from multi array.
+    make_empty() -> None. Makes this array empty ~~ {}
+    is_empty()  -> bool. True - if array is empty, else - False.
+    count_item(item) -> int. Returns the count of the item in this array.
+    get_data() -> dict. Returns dict, that represents the info about array
+    union(other) -> <class 'MultiArray'>. Don't change any instances, creates and returns a new one,
+                                                                that is the union of self and other.
+    intersect(other) -> <class 'MultiArray'>. Don't change any instances, creates and returns a new one,
+                                                            that is the intersection of self and other.
+    """
     def __init__(self, data):
         self._data = {}
         if isinstance(data, (list, tuple, str)):
