@@ -9,6 +9,7 @@
       <sourceFolder url="file://$MODULE_DIR$/ClassWork/Schedule" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exceptions/T15_2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Exceptions/T15_1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exceptions/T15_9" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
