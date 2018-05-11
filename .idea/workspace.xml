@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea13acae-8b89-4f6c-b564-8ec2feac26d0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Iterators/main16_15.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Iterators/main16_17.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" afterPath="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" />
     </list>
     <ignored path="Queue_tasks/Labirint/.idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +17,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/2Semestr$main10_6.coverage" NAME="main10_6 Coverage Results" MODIFIED="1522666496211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/10_6" />
     <SUITE FILE_PATH="coverage/2Semestr$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1522170951489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
+    <SUITE FILE_PATH="coverage/2Semestr$main16_15.coverage" NAME="main16_15 Coverage Results" MODIFIED="1525981628399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators" />
     <SUITE FILE_PATH="coverage/2Semestr$Rewriting.coverage" NAME="Rewriting Coverage Results" MODIFIED="1525413679646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex" />
     <SUITE FILE_PATH="coverage/2Semestr$test.coverage" NAME="test Coverage Results" MODIFIED="1524148632161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
     <SUITE FILE_PATH="coverage/2Semestr$main15_1.coverage" NAME="main15_1 Coverage Results" MODIFIED="1525632652837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Exceptions/T15_1" />
@@ -45,6 +47,7 @@
     <SUITE FILE_PATH="coverage/2Semestr$main14_9.coverage" NAME="main14_9 Coverage Results" MODIFIED="1524079149194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Inheritance/14.9 (sorting)" />
     <SUITE FILE_PATH="coverage/2Semestr$Classes_schedule.coverage" NAME="Classes_schedule Coverage Results" MODIFIED="1524755155240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ClassWork/Schedule" />
     <SUITE FILE_PATH="coverage/2Semestr$fib.coverage" NAME="fib Coverage Results" MODIFIED="1525415241881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex/Iterators" />
+    <SUITE FILE_PATH="coverage/2Semestr$main16_17.coverage" NAME="main16_17 Coverage Results" MODIFIED="1525979615643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Iterators" />
     <SUITE FILE_PATH="coverage/2Semestr$main.coverage" NAME="main Coverage Results" MODIFIED="1524812762942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test" />
     <SUITE FILE_PATH="coverage/2Semestr$permute.coverage" NAME="permute Coverage Results" MODIFIED="1525416914117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Ex/Iterators" />
     <SUITE FILE_PATH="coverage/2Semestr$main_labir.coverage" NAME="main_labir Coverage Results" MODIFIED="1523815696305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Queue/Labirint" />
@@ -68,33 +71,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main15_9.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/main15_9.py">
+      <file leaf-file-name="main16_15.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Iterators/main16_15.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="multiarray.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/multiarray.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ex15_9.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+            <state relative-caret-position="180">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -136,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Classes/T13.6(withfiles)/main.py" />
-        <option value="$PROJECT_DIR$/Classes/integrals/amin.py" />
         <option value="$PROJECT_DIR$/Classes/integrals/main.py" />
         <option value="$PROJECT_DIR$/Classes/turtle/main.py" />
         <option value="$PROJECT_DIR$/Classes/integrals/Integral.py" />
@@ -187,6 +166,8 @@
         <option value="$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_9/main15_9.py" />
         <option value="$PROJECT_DIR$/Exceptions/T15_9/multiarray.py" />
+        <option value="$PROJECT_DIR$/Iterators/main16_17.py" />
+        <option value="$PROJECT_DIR$/Iterators/main16_15.py" />
       </list>
     </option>
   </component>
@@ -245,13 +226,7 @@
             <path>
               <item name="2Semestr" type="b2602c69:ProjectViewProjectNode" />
               <item name="2Semestr" type="462c0819:PsiDirectoryNode" />
-              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2Semestr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2Semestr" type="462c0819:PsiDirectoryNode" />
-              <item name="Exceptions" type="462c0819:PsiDirectoryNode" />
-              <item name="T15_9" type="462c0819:PsiDirectoryNode" />
+              <item name="Iterators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -300,7 +275,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main15_9">
+  <component name="RunManager" selected="Python.main16_15">
     <configuration name="main15_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -339,25 +314,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main16_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="2Semestr" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/main16_10.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="main16_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,7 +333,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="main16_7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="main16_15" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -390,26 +346,45 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="2Semestr" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/main16_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/main16_15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main16_17" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Iterators" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="2Semestr" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Iterators/main16_17.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.main16_7" />
-      <item index="1" class="java.lang.String" itemvalue="Python.main16_10" />
-      <item index="2" class="java.lang.String" itemvalue="Python.main16_11" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main15_1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.main15_9" />
+      <item index="0" class="java.lang.String" itemvalue="Python.main16_11" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main15_1" />
+      <item index="2" class="java.lang.String" itemvalue="Python.main15_9" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main16_17" />
+      <item index="4" class="java.lang.String" itemvalue="Python.main16_15" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.main15_9" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main15_1" />
-        <item index="2" class="java.lang.String" itemvalue="Python.main16_11" />
-        <item index="3" class="java.lang.String" itemvalue="Python.main16_10" />
-        <item index="4" class="java.lang.String" itemvalue="Python.main16_7" />
+        <item index="0" class="java.lang.String" itemvalue="Python.main16_15" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main16_17" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main15_9" />
+        <item index="3" class="java.lang.String" itemvalue="Python.main15_1" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main16_11" />
       </list>
     </recent_temporary>
   </component>
@@ -546,7 +521,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525975979865</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Added some comments.">
+      <created>1525977995330</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1525977995330</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView">
@@ -652,7 +634,8 @@
     <MESSAGE value="Iterators." />
     <MESSAGE value="Iterators and exceptions home work." />
     <MESSAGE value="Exceptions home work T15.9." />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions home work T15.9." />
+    <MESSAGE value="Added some comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some comments." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -716,32 +699,11 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="323" />
+      <option name="time" value="335" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydevd_bundle/pydevd_comm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7893">
-          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queue_tasks/Labirint/.idea/misc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Queue_tasks/Labirint/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Queue_tasks/Labirint/.idea/Labirint.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1036,22 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/main15_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/weakref.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-248">
@@ -1073,8 +1019,48 @@
         <state relative-caret-position="440">
           <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#13#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/main15_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exceptions/T15_9/ex15_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="true" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators/main16_17.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Telegram Downloads/t16_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterators/main16_15.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
